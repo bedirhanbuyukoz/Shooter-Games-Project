@@ -1,5 +1,5 @@
 # Shooter-Games-Project
-Creating UI with C++
+Creating UI with QT/C++
 
 https://www.instagram.com/p/CLrg4hSFWD_/?igshid=13gj3lusyoy5d
 
